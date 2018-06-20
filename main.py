@@ -2,7 +2,7 @@ import discord
 import wiki
 import utils
 
-# NEED TO AD
+# NEED TO ADD
 # GameLog
 # customStart
 
@@ -146,4 +146,4 @@ async def on_ready():
 
 wiki.loadPages()
 
-client.run([REDACTED])
+client.run("NDU3NzI3Njc1ODM1MDg4ODk4.DgdTog.jyCpV-DmGtNTTTOXs2GP9rRLAOU")
